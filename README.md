@@ -6,6 +6,9 @@ Week. Everythin will be organized by year.
 2014
 ----
 President - Brent Erickson
+
 PR Rep - Jacob Ortt
+
 Theme - HunGeer Games
+
 Placed - 3rd
