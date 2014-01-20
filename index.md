@@ -1,5 +1,7 @@
 ---
-layout: index.md
+layout: index
+title: Geer Week
+permalink: /index.html
 ---
 Geer Week
 =========
